@@ -77,7 +77,7 @@ if pagina_principal == "Sábado 22 de junio, 2024":
     st.markdown("<h2 style='text-align: justify;'>Sábado 22 de junio, 2024</h2>", unsafe_allow_html=True)
 
     # Agregar un video
-    st.video("Videopoema.mp4")
+    st.video("videopoema.mp4")
 
 elif pagina_principal == "Álbum de chicos":
 
